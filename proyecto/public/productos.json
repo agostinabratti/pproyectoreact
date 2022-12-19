@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 1,
+        "producto": "bananas",
+        "tipo": "africanas",
+        "precio": 260,
+        "stock": 120,
+        "img": ""
+    },
+    {
+        "id": 2,
+        "idCategoria": 2,
+        "producto": "manzanas",
+        "tipo": "rojas",
+        "precio": 320,
+        "stock": 110,
+        "img": ""
+    },
+    {
+        "id": 3,
+        "idCategoria": 3,
+        "producto": "frutillas",
+        "tipo": "jugosas",
+        "precio": 500,
+        "stock": 150,
+        "img": ""
+    },
+    {
+        "id": 4,
+        "idCategoria": 4,
+        "producto": "naranja ",
+        "tipo": "jugo",
+        "precio": 200,
+        "stock": 330,
+        "img": ""
+    },
+    {
+        "id": 5,
+        "idCategoria": 4,
+        "producto": "naranjas",
+        "tipo": "ombligo",
+        "precio": 170,
+        "stock": 360,
+        "img": ""
+    },
+    {
+        "id": 6,
+        "idCategoria": 2,
+        "producto": "manzanas",
+        "tipo": "verdes",
+        "precio": 130,
+        "stock": 300,
+        "img": ""
+    }
+
+]
